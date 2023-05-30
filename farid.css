@@ -511,7 +511,23 @@
         width: 100%;
         min-height: 50vh;
         background-size:cover;
+        background: url(photo/abstracts1.PNG) no-repeat;
+        /*
+         display: flex;
+        align-items: center;
+        
+        background-position: center;
+        
+        */
       }
+
+
+      
+       
+    
+
+
+
 
       .main h2{
         color: beige;
