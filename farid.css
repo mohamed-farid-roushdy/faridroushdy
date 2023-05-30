@@ -434,7 +434,9 @@
       }
     
       section{
-        padding: 10px 30px;
+        padding-left: 50px;
+        padding-top: 20px;
+        padding-bottom: 5px;
       }
       .main{
         width: 100%;
