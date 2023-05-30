@@ -320,9 +320,16 @@
     header{
         background-color:#227abd;
         justify-content: space-between;
-
         padding:10px 25px;
+
+        width: 100%;
+        position: fixed;
+        z-index: 999;
+        display: flex;
+        align-items: center;
       }
+
+    
 
       .logo{
         font-weight: 700;
