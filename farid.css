@@ -473,12 +473,24 @@
    }
 
 
-   /*901 --- 1000???*/
+   /*901 ---
+   .
+   .
+   .
+   .
+   .
+   .
+   .
+   .
+   .
+   .
+   1000???*/
 
    @media screen and (min-width:901px) and (max-width:1000px) {
     header{
         background-color:#fbff1c;
         justify-content: space-between;
+        height: 50px;
 
         padding:10px 60px;
       }
