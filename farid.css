@@ -484,13 +484,10 @@
       }
    }
   #portfolio{
-    padding: 1px 10px;
-    margin-top: -10px;
+    padding: 0px 10px;
+    margin-top: -50px;
   }
-  .system{
-    display: none;
-
-  }
+  
    .card{
     background-color: white;
     width: 46em;
