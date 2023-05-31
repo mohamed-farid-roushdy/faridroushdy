@@ -466,7 +466,8 @@
         margin-bottom: 50px;
       }
       .main-btn{
-        color: beige;
+        display: none;
+        /* color: beige;
         background-color: #e24747;
         text-decoration: none;
         font-size: .8em;
@@ -477,7 +478,7 @@
         border-radius: 15px;
         margin-bottom: 40px;
         margin-left: 20px;
-        transition: 0.7s ease;
+        transition: 0.7s ease; */
       }
     
       .main-btn:hover{
