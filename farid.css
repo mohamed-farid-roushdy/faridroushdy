@@ -435,7 +435,6 @@
     
       
       .main{
-        display:contents;
         align-items: center;
         min-height: 40vh;
         background-size:cover;
