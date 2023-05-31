@@ -469,18 +469,6 @@
       }
       .main-btn{
         display: none;
-        /* color: beige;
-        background-color: #e24747;
-        text-decoration: none;
-        font-size: .8em;
-        font-weight: 500;
-        display: inline-block;
-        padding: .8em 1.5em;
-        letter-spacing: 1px;
-        border-radius: 15px;
-        margin-bottom: 40px;
-        margin-left: 20px;
-        transition: 0.7s ease; */
       }
     
       .main-btn:hover{
@@ -493,8 +481,16 @@
         padding-right: 20px;
         padding-left: 30px;
         padding-bottom: 10px;
-        align-self: center;
       }
+   }
+   .card{
+    background-color: white;
+    width: 23em;
+    box-shadow: 0 5px 25px rgba(1 1 1 /15%);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px;
+    transition: 0.7s ease;
    }
     
 
