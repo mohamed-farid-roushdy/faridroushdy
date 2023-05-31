@@ -483,6 +483,9 @@
         padding-bottom: 10px;
       }
    }
+  #portfolio{
+    padding: 110px 10px;
+  }
    .card{
     background-color: white;
     width: 23em;
