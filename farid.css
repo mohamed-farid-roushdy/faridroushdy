@@ -490,8 +490,9 @@
         color: beige;
         font-size: 3em;
         padding-right: 20px;
-        padding-left: 20px;
+        padding-left: 30px;
         padding-bottom: 10px;
+        align-self: center;
       }
    }
     
