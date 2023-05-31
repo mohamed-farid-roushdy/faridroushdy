@@ -433,15 +433,14 @@
         font-size: 1.5em;
       }
     
-      section{
-        padding-left: 50px;
-        padding-top: 20px;
-        padding-bottom: 5px;
-      }
+      
       .main{
         width: 100%;
         min-height: 50vh;
         background-size:cover;
+        padding-left: 50px;
+        padding-top: 20px;
+        padding-bottom: 5px;
       }
 
       .main h2{
