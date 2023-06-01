@@ -413,7 +413,7 @@
    .
    1000???*/
 
-   @media screen and (min-width:901px) and (max-width:1000px) {
+   @media screen and (min-width:901px) and (max-width:950px) {
     header{
         background-color:black;
         justify-content: space-between;
