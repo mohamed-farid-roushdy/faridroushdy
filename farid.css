@@ -522,6 +522,13 @@ section {
   margin-top: -50px;
 }
 
+.content {
+  display: flex;
+  justify-content: center;
+  flex: column;
+  flex-wrap: wrap;
+}
+
 .card {
   background-color: white;
   width: 600px;
